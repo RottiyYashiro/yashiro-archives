@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    font-family: Yu Gothic;
+}
+
+header{
+    color: #8b0000;
+    background-color: #ffffff;
+    justify-content: flex-start;
+}
+
+header h1{
+    padding: 5px 20px;
+    margin: 0px;
+
+    font-size: 40px;
+}
+
+header img{
+    margin-left: 0px;
+}
+
+.about{
+    padding: 50px;
+    color: #8b0000;
+}
+
+.about h2{
+    text-align: center;
+}
+
+.about h3{
+    text-align: center;
+}
+
+.about h4{
+    text-align: center;
+}
+
+.information{
+    padding: 50px;
+    margin: 0px 0px 40px 0px;
+    color: #8b0000;
+}
+
+.information p{
+    font-size: 30px;
+    font-family: segoe script;
+}
+
+.information img{
+    width: 50%;
+    margin: 15px;
+    float: left;
+}
+
+.explain{
+    float: left;
+}
+
+main h1{
+    padding: 15px 5px 15px 5px;
+    margin: 0px;
+    text-align: center;
+    color:#8b0000;
+    border-bottom: 1px solid #8b0000;
+}
+
+.contents{
+    padding: 50px;
+    margin-top: 20px;
+}
+
+.contents h2{
+    color: #8b0000;
+    padding: 0px 10px;
+    border-left: 10px solid #8b0000;
+}
+
+
+.each p{
+    padding: 10px;
+    color: #000;
+}
+
+a :hover{
+    background-color:#f3dbdb;
+    cursor: pointer;
+    transition: 1.0s ;
+}
+
+a{
+    text-decoration: none;
+    transition: 1.0s ;
+}
+
+.each{
+    border: 1px solid #8b0000;
+    padding: 5px;
+    margin: 5px;
+}
