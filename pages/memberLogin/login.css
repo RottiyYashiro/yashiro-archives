@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    font-family:Yu Gothic;
+}
+
+header{
+    color: #8b0000;
+    background-color: #ffffff;
+    justify-content: flex-start;
+}
+
+header h1{
+    padding: 5px 20px;
+    margin: 0px;
+
+    font-size: 40px;
+}
+
+header img{
+    margin-left: 0px;
+}
+
+.button{
+    margin: 10px;
+}
+
+main{
+    padding: 10px;
+    margin: 10px;
+}
+
+main h1{
+    padding: 15px 5px 15px 5px;
+    margin: 0px;
+    text-align: center;
+    color:#8b0000;
+    border-bottom: 1px solid #8b0000;
+}
+
+main h2{
+    color: #8b0000;
+}
+
+.back{
+    margin-top: 30px;
+}
